@@ -1,15 +1,14 @@
 *{
     margin: 0;
+    font-family: "Tahoma";
 }
 h1{
     position: center;
-    font-family: "Tahoma";
     font-size: 40pt;
 }
 h2{
     position: center;
     margin-top: 10px;
-    font-family: "Tahoma";
     font-size: 20pt;
 }
 p{
