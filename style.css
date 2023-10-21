@@ -30,8 +30,6 @@ nav p{
     box-sizing: border-box;
     padding-top: 65px;
     padding-left: 8px;
-    background-color: lightgray;
-    height: 1600px;
 }
 a{
     color:dimgray;
@@ -50,58 +48,16 @@ h1{
     text-shadow: 2px 2px black;
 }
 p{
+    font-size: x-large;
     margin-bottom: 20px;
     margin-left: 15px;
     margin-right: 15px;
 }
-
-img{
-    height: 200px;
-}
-.box{
-    float: top;
-    height: 150px;
-    width: 100%;
-    margin: 8px;
-}
-.image{
-    float: top;
-    height: 150px;
-    width: 100%;
-    margin: 8px;
-}
-.aboutBox{
-    height: 650px;
-    width: 100%;
-    margin: 8px;
-}
-.container{
-    height: 800px;
-    width: 100%;
-}
 h2{
+    font-size: 100pt;
     text-align: center;
+    margin-top: 150px;
 }
 img{
-    height: 500px;
-    width: 500px;
-}
-footer{
     height: 200px;
-}
-@media screen and (min-width: 600px){
-    .box{
-        width: 250px;
-        float: left;
-    }
-    .aboutBox{
-        height: 250px;
-    }
-    img{
-        width: 200px;
-        height: 200px;
-    }
-    h1{
-        font-size: xx-large;
-    }
 }
